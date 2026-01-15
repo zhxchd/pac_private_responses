@@ -1,0 +1,86 @@
+[
+    {
+        "dataset": "cifar10",
+        "alpha": 0.01,
+        "accuracy_all": 0.5864571428571429,
+        "accuracy_confident_all": 0.9522069726337766,
+        "num_private_responses": 210000,
+        "num_confident_responses": 84301,
+        "cifar10_test_accuracy": 0.9237,
+        "mi_bound": 4.889443516731262e-05,
+        "mia_bound": 0.5049443724719028,
+        "epsilon": 0.019758330229927658
+    },
+    {
+        "dataset": "cifar10",
+        "alpha": 0.01,
+        "accuracy_all": 0.5864571428571429,
+        "accuracy_confident_all": 0.9522069726337766,
+        "num_private_responses": 160000,
+        "num_confident_responses": 64281,
+        "cifar10_test_accuracy": 0.906,
+        "mi_bound": 3.725290298461914e-05,
+        "mia_bound": 0.5043158104900166,
+        "epsilon": 0.01724384166964077
+    },
+    {
+        "dataset": "cifar10",
+        "alpha": 0.01,
+        "accuracy_all": 0.5864571428571429,
+        "accuracy_confident_all": 0.9522069726337766,
+        "num_private_responses": 80000,
+        "num_confident_responses": 32153,
+        "cifar10_test_accuracy": 0.8832,
+        "mi_bound": 1.862645149230957e-05,
+        "mia_bound": 0.503051748336774,
+        "epsilon": 0.012187266063339098
+    },
+    {
+        "dataset": "cifar10",
+        "alpha": 0.01,
+        "accuracy_all": 0.5864571428571429,
+        "accuracy_confident_all": 0.9522069726337766,
+        "num_private_responses": 40000,
+        "num_confident_responses": 16073,
+        "cifar10_test_accuracy": 0.8445,
+        "mi_bound": 9.313225746154785e-06,
+        "mia_bound": 0.5021579152940154,
+        "epsilon": 0.008611800516297787
+    },
+    {
+        "dataset": "cifar10",
+        "alpha": 0.01,
+        "accuracy_all": 0.5864571428571429,
+        "accuracy_confident_all": 0.9522069726337766,
+        "num_private_responses": 20000,
+        "num_confident_responses": 8010,
+        "cifar10_test_accuracy": 0.8154,
+        "mi_bound": 4.656612873077393e-06,
+        "mia_bound": 0.5015258777217828,
+        "epsilon": 0.006083590485623323
+    },
+    {
+        "dataset": "cifar10",
+        "alpha": 0.01,
+        "accuracy_all": 0.5864571428571429,
+        "accuracy_confident_all": 0.9522069726337766,
+        "num_private_responses": 10000,
+        "num_confident_responses": 4004,
+        "cifar10_test_accuracy": 0.7269,
+        "mi_bound": 2.3283064365386963e-06,
+        "mia_bound": 0.5010789589048389,
+        "epsilon": 0.0042958851847098274
+    },
+    {
+        "dataset": "cifar10",
+        "alpha": 0.01,
+        "accuracy_all": 0.5864571428571429,
+        "accuracy_confident_all": 0.9522069726337766,
+        "num_private_responses": 5000,
+        "num_confident_responses": 2030,
+        "cifar10_test_accuracy": 0.6671,
+        "mi_bound": 1.1641532182693481e-06,
+        "mia_bound": 0.5007629393056343,
+        "epsilon": 0.0030317898626983737
+    }
+]
